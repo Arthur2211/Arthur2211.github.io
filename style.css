@@ -26,3 +26,7 @@ img{
 a:hover{
 	color: rgb(255, 0, 0);
 }
+
+a{
+	color: black;
+}
